@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>One Man Building Apps and Solving Problems</h1>
+     <p>I'm a new developer working with Ruby on Rails</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -19,10 +19,6 @@ theme_settings:
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
   flickr:
   github: # github profile name, e.g. "madebymunsters"
   google_plus:
@@ -32,11 +28,7 @@ theme_settings:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter:
-  wordpress:
-  youtube:
+  
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BlocFlix
+title: Progreso
 thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+short-description: Progreso- a project management app that sends updates via text
 
 ---
 

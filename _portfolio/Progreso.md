@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Progreso
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/Progreso.png"
 short-description: Progreso- a project management app that sends updates via text
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/Progreso.png)
 
 ## Explanation
 

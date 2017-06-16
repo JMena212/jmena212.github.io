@@ -11,7 +11,7 @@ short-description: Progreso- a project management app that sends updates via tex
 
 ## Explanation
 
-When dealing with various projects for various clients simultaneously, keeping everyone up-to-date on progress can become an administrative burden. Progreso is designed to help making project updates easier and more easily digestible.
+When dealing with various projects for several clients simultaneously, keeping everyone up-to-date on progress can become an administrative burden. Progreso is designed to help making project updates easier and more easily digestible.
 
 ## Problem
 
